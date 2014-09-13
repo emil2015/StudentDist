@@ -1,3 +1,5 @@
+#First draft, still a little hacky
+
 import random
 #Array for advanced programming students
 
